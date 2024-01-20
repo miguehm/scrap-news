@@ -1,6 +1,6 @@
 # Scrap
 
-## Setup
+## Setup (linux)
 
 ```bash
 python3 -m venv venv \
